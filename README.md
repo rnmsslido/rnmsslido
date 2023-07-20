@@ -1,6 +1,9 @@
-- 👋 Hey, I’m @rnmsslido
-- 👀 I’m interested in crypto, k8s and linux
-- 🌱 I’m currently reading about k8s operators for stateful apps and learning about AI/ML 
+👋 Hey, I’m @rnmsslido
+
+👀 I’m interested in crypto, k8s and linux
+
+
+🌱 I’m currently reading about k8s operators for stateful apps and learning about AI/ML 
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

@@ -4,9 +4,10 @@
 
 
 🌱 Currently researching about ETH consensus layer providers, k8s operators for stateful apps and learning about AI/ML 
+
+📫 You can find me @ Lido
 <!---
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 rnmsslido/rnmsslido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

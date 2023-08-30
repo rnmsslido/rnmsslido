@@ -3,7 +3,7 @@
 👀 I’m interested in crypto, k8s, linux and automation
 
 
-🌱 Currently researching about ETH consensus layer providers, k8s operators for stateful apps and learning about AI/ML 
+🌱 Currently researching about ETH Holesky testnet, k8s operators for stateful apps and learning about AI/ML 
 
 📫 You can find me @ Lido
 <!---

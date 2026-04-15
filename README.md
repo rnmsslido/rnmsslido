@@ -1,8 +1,6 @@
 👋 Yo I’m @rnmsslido
 
-👀 I’m interested in crypto, k8s, linux and automation
-
-🚀 Currently researching about golang, k8s operators for stateful apps and learning about AI/ML 
+👀 I’m involved with web3, k8s, linux and automation
 
 📫 You can find me @lidofinance
 <!---
